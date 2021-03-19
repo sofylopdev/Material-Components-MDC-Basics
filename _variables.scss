@@ -1,0 +1,20 @@
+@use "@material/theme" with (
+  $primary: #5D1049,//#fcb8ab,
+  $secondary:#E30425 ,// #feeae6,
+  $on-primary:#FFFFFF,// #442b2d,
+  $on-secondary:  #FFFFFF,//#442b2d,
+  $surface:  #FFFFFF,//#FFFBFA,
+  $on-surface: #000000,//#442C2E,
+  $background: #F4E2ED,//#FFFFFF,
+//   $on-background: #442C2E
+
+);
+
+// $mdc-theme-primary: #fedbd0;
+// $mdc-theme-on-primary: #442C2E;
+// $mdc-theme-secondary: #FEEAE6;
+// $mdc-theme-on-secondary: #442C2E;
+// $mdc-theme-surface: #FFFBFA;
+// $mdc-theme-on-surface: #442C2E;
+// $mdc-theme-background: #FFFFFF;
+// $mdc-theme-on-background: #442C2E;
